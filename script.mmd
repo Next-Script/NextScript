@@ -26,7 +26,3 @@ graph TD
         BackendAPI --> DBLayer[Database];
         BackendAPI --> RustService;
     end
-
-    UI_Designer -- Design Specs --> AutoUI;
-    Developer -- Logic/Config --> Scripting;
-    LCEngine -- Uses --> RustService;
