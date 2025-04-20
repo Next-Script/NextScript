@@ -58,6 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🌟 Support
 
-- 📫 For bug reports and feature requests, please use the [GitHub Issues](https://github.com/yourusername/NextScript/issues)
-- 💬 For general questions, join our [Discord Community](https://discord.gg/nextscript)
-- 📧 For enterprise support, contact us at support@nextscript.dev
+- 📫 For bug reports and feature requests, please use the [GitHub Issues](https://github.com/Next-Script/NextScript/issues)
+- 💬 For general questions, join our [comingsoon]
+- 📧 For enterprise support, contact us at kasinadhsarma@gmail.com
